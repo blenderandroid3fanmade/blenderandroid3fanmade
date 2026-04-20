@@ -1,3 +1,4 @@
+icons/logo/blenderlogo.png
 ## This is the account for Blender Android
 Managed by @similienandrew-svg
 
